@@ -8,48 +8,53 @@ Personal study notes for CPSC 340 (Machine Learning and Data Mining) at UBC.
 - [ ] Machine Learning Fundamentals
 - [ ] Exploratory Data Analysis
 - [ ] Decision Trees
-- [ ] Learning Theory & Cross-validation
+- [ ] Learning Theory and Cross-validation
 - [ ] Probabilistic Classifiers
 
-### 2. Non-Parametric Methods (Weeks 2-3)
+### 2. Non-Parametric and Ensemble Methods (Weeks 2-3)
 - [ ] Non-Parametric Models (k-NN)
 - [ ] Ensemble Methods
 - [ ] Random Forests
-- [ ] Model Selection
+- [ ] Model Selection and Validation
 
-### 3. Clustering (Weeks 3-4)
+### 3. Clustering and Outlier Detection (Weeks 3-4)
 - [ ] K-means Clustering
 - [ ] DBSCAN
 - [ ] Hierarchical Clustering
-- [ ] Outlier Detection
+- [ ] Outlier Detection Methods
 
-### 4. Linear Models (Weeks 4-6)
+### 4. Linear Models and Optimization (Weeks 4-6)
 - [ ] Least Squares Regression
+- [ ] Nonlinear Regression
 - [ ] Gradient Descent
+- [ ] Robust Regression
 - [ ] Feature Selection
-- [ ] Regularization
 
-### 5. Advanced Classification (Weeks 6-8)
+### 5. Regularization and Classification (Weeks 6-8)
+- [ ] Regularization Methods (L1/L2)
 - [ ] Linear Classifiers
 - [ ] Support Vector Machines
+- [ ] Feature Engineering
 - [ ] Kernel Methods
 
-### 6. Optimization (Weeks 8-10)
+### 6. Advanced Optimization and Probabilistic Methods (Weeks 8-10)
 - [ ] Stochastic Gradient Descent
-- [ ] Boosting
-- [ ] Maximum Likelihood (MLE)
+- [ ] Boosting Methods
+- [ ] Maximum Likelihood Estimation (MLE)
 - [ ] Maximum A Posteriori (MAP)
 
 ### 7. Dimensionality Reduction (Weeks 10-11)
-- [ ] Principal Component Analysis
-- [ ] Singular Value Decomposition
-- [ ] Matrix Factorization
+- [ ] Principal Component Analysis (PCA)
+- [ ] Singular Value Decomposition (SVD)
+- [ ] Sparse Matrix Factorization
+- [ ] Non-Negative Matrix Factorization
 
-### 8. Modern ML (Weeks 12-14)
+### 8. Modern Machine Learning (Weeks 12-14)
+- [ ] Recommender Systems
 - [ ] Neural Networks
 - [ ] Deep Learning
-- [ ] CNNs
-- [ ] Applications
+- [ ] Convolutional Neural Networks (CNNs)
+- [ ] Applications and Future Directions
 
 ## 📖 Course Resources
 
